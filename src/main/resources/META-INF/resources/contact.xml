@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<webpage lastModified="$Date$" id="contact">
+ <title xml:lang="de">Kontakt - Bibliographie</title>
+ <title xml:lang="en">Contact - Bibliography</title>
+
+  <article class="card" xml:lang="de">
+    <div class="card-body">
+      <h3>Kontakt</h3>
+      <p>
+          Haben Sie Fragen zur Universitätsbibliographie oder benötigen Hilfe oder Beratung, melden Sie sich bei uns:
+      </p>
+      <p>
+          Katrin Neumann<br/>
+          <a href="mailto:Perspectivia@MaxWeberStiftung.de">Perspectivia@MaxWeberStiftung.de</a>
+      </p>
+    </div>
+  </article>
+
+  <article class="card" xml:lang="en">
+      <div class="card-body">
+        <h3>Contact</h3>
+        <p>
+        If you have questions to the university library, or need advice or consultation, please contact us:
+        </p>
+        <p>
+          Katrin Neumann<br/>
+          <a href="mailto:Perspectivia@MaxWeberStiftung.de">Perspectivia@MaxWeberStiftung.de</a>
+        </p>
+      </div>
+  </article>
+
+</webpage>

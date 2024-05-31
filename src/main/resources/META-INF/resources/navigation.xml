@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<navigation root="true">
+
+  <item id="home" />
+  <item id="login" />
+  <item id="dozbib" />
+
+  <item menu="header">
+    <item href="https://perspectivia.net/" icon="info-circle">
+      <label xml:lang="de">perspectivia.net</label>
+      <label xml:lang="en">perspectivia.net</label>
+    </item>
+    <item href="https://perspectivia.net/content/about/index.xml" icon="info-circle">
+      <label xml:lang="de">Open Access</label>
+      <label xml:lang="en">Open Access</label>
+    </item>
+  </item>
+
+  <item menu="main">
+    <item ref="search.xed">
+      <label xml:lang="de">Suchen</label>
+      <label xml:lang="en">Search</label>
+      <item id="dozbib.search-simple" ref="search.xed">
+        <label xml:lang="de">Erweiterte Suche</label>
+        <label xml:lang="en">Extended search</label>
+      </item>
+      <item id="dozbib.search-expert" ref="search-expert.xed" role="admin">
+        <label xml:lang="de">Expertensuche</label>
+        <label xml:lang="en">Expert search</label>
+      </item>
+      <item id="search.admin" ref="search-admin.xml" role="admin">
+        <label xml:lang="de">Admin-Suche</label>        
+      </item>
+      <item id="dozbib.search" />
+    </item>
+    <item ref="newPublication.xed" id="dozbib.new.publication">
+      <label xml:lang="de">Publikation melden</label>
+      <label xml:lang="en">Register a publication</label>
+      <item id="dozbib.edit.publication" />
+    </item>
+    <item ref="list-wizard.xed" id="dozbib.list-wizard">
+      <label xml:lang="de">Persönliche Publikationsliste</label>
+      <label xml:lang="en">Personal publication list</label>
+    </item>
+    <item ref="statistics.xml" id="dozbib.stats">
+      <label xml:lang="de">Statistiken</label>
+      <label xml:lang="en">Statistics</label>
+    </item>
+    <item ref="info.xml" id="dozbib.info">
+      <label xml:lang="de">Informationen</label>
+      <label xml:lang="en">Information</label>
+    </item>
+    <item ref="import-list.xed" role="admin">
+      <label xml:lang="de">Importieren</label>
+      <label xml:lang="en">Import</label>
+      <item id="dozbib.import.list" ref="import-list.xed" role="admin">
+        <label xml:lang="de">Literaturliste importieren</label>
+        <label xml:lang="en">Import publication list</label>
+      </item>
+    </item>
+  </item>
+
+  <item menu="user">
+    <item ref="servlets/MCRUserServlet?action=show">
+      <label xml:lang="de">Mein Profil</label>
+      <label xml:lang="en">My profile</label>
+    </item>
+  </item>
+
+  <item menu="admin">
+    <item id="dozbib.duplicates" ref="duplicates.xml" role="admin">
+      <label xml:lang="de">Dubletten-Bericht</label>
+      <label xml:lang="en">Duplicates report</label>
+    </item>
+    <item id="ubo.enrichmentDebugger" ref="enrichmentDebugger.xed" role="admin">
+      <label xml:lang="de">Enrichment Debugger</label>
+      <label xml:lang="en">Enrichment Debugger</label>
+    </item>
+    <item id="user.admin" ref="servlets/MCRUserServlet" role="admin">
+      <label xml:lang="de">Nutzerverwaltung</label>
+      <label xml:lang="en">Admin Users</label>
+    </item>
+    <item id="user.new" ref="authorization/new-user.xed?action=save" role="admin">
+      <label xml:lang="de">Nutzer anlegen</label>
+      <label xml:lang="en">Create User</label>
+    </item>
+    <item id="acl.editor" ref="rsc/ACLE/start" role="admin">
+      <label xml:lang="de">ACL-Editor</label>
+      <label xml:lang="en">ACL Editor</label>
+    </item>
+    <item id="classeditor" ref="modules/classeditor/classificationEditor.xml" role="admin">
+      <label xml:lang="de">Klassifikationseditor</label>
+      <label xml:lang="en">Classification editor</label>
+    </item>
+    <item id="webcli" ref="modules/webcli/launchpad.xml" role="admin">
+      <label xml:lang="de">WebCLI</label>
+      <label xml:lang="en">WebCLI</label>
+    </item>
+  </item>
+
+  <item menu="footer">
+    <item ref="impressum.xml" icon="comments">
+      <label xml:lang="de">Impressum</label>
+      <label xml:lang="en">Imprint</label>
+    </item>
+    <item href="https://perspectivia.net/content/below/privacy_notice.xml" icon="user-shield">
+      <label xml:lang="de">Datenschutz</label>
+      <label xml:lang="en">Privacy policy</label>
+    </item>
+    <item ref="accessibility.xml" icon="universal-access">
+      <label xml:lang="de">Barrierefreiheit</label>
+      <label xml:lang="en">Accessibility</label>
+    </item>
+  </item>
+
+</navigation>
