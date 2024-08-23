@@ -1,0 +1,2 @@
+update classification from uri resource:setup/classifications/ORIGIN.xml
+update classification from uri resource:setup/classifications/ubogenre.xml
