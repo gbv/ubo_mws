@@ -19,14 +19,13 @@
 
   <xsl:variable name="AvailableLanguages" select="'de,en'" />
 
-  <!-- ==================== WEBJARS VERSIONS (see pom.xml) ==================== -->
-
-  <xsl:variable name="jquery.version" select="'3.5.1'"/>
-  <xsl:variable name="jquery-ui.version" select="'1.13.2'"/>
-  <xsl:variable name="chosen.version" select="'1.8.7'" />
-  <xsl:variable name="bootstrap.version" select="'4.4.1'" />
-  <xsl:variable name="font-awesome.version" select="'5.13.0'" />
-
+  <xsl:param name="UBO.Frontend.jquery.version" />
+  <xsl:param name="UBO.Frontend.jquery-ui.version" />
+  <xsl:param name="UBO.Frontend.bootstrap.version" />
+  <xsl:param name="UBO.Frontend.bootstrap-select.version" />
+  <xsl:param name="UBO.Frontend.font-awesome.version" />
+  <xsl:param name="User-Agent"/>
+  
   <!-- ==================== INCLUDES ==================== -->
 
   <xsl:include href="coreFunctions.xsl" />
@@ -77,20 +76,22 @@
       <meta name="viewport" content="width=device-width, initial-scale=1.0" />
       <meta charset="utf-8" />
 
-      <link rel="icon" href="{$WebApplicationBaseURL}favicon.ico" type="image/x-icon" />
+      <link rel="shortcut icon" href="{$WebApplicationBaseURL}favicon.ico" type="image/x-icon" />
 
-      <link rel="stylesheet" href="{$WebApplicationBaseURL}webjars/font-awesome/{$font-awesome.version}/css/all.css" />
+
+      <link rel="stylesheet" href="{$WebApplicationBaseURL}webjars/font-awesome/{$UBO.Frontend.font-awesome.version}/css/all.css" />
       <link rel="stylesheet" href="{$WebApplicationBaseURL}rsc/sass/scss/bootstrap-ubo.css"  />
-      <link rel="stylesheet" href="{$WebApplicationBaseURL}webjars/chosen-js/{$chosen.version}/chosen.min.css" />
-      <link rel="stylesheet" href="{$WebApplicationBaseURL}webjars/jquery-ui/{$jquery-ui.version}/jquery-ui.css" />
+      <link rel="stylesheet" href="{$WebApplicationBaseURL}webjars/bootstrap-select/{$UBO.Frontend.bootstrap-select.version}/css/bootstrap-select.min.css" />
+      <link rel="stylesheet" href="{$WebApplicationBaseURL}webjars/jquery-ui/{$UBO.Frontend.jquery-ui.version}/jquery-ui.css" />
 
-      <script type="text/javascript" src="{$WebApplicationBaseURL}webjars/jquery/{$jquery.version}/jquery.min.js"></script>
-      <script type="text/javascript" src="{$WebApplicationBaseURL}webjars/bootstrap/{$bootstrap.version}/js/bootstrap.bundle.min.js"></script>
-      <script type="text/javascript" src="{$WebApplicationBaseURL}webjars/chosen-js/{$chosen.version}/chosen.jquery.min.js"></script>
-      <script type="text/javascript" src="{$WebApplicationBaseURL}webjars/jquery-ui/{$jquery-ui.version}/jquery-ui.js"></script>
+      <script type="text/javascript" src="{$WebApplicationBaseURL}webjars/jquery/{$UBO.Frontend.jquery.version}/jquery.min.js"></script>
+      <script type="text/javascript" src="{$WebApplicationBaseURL}webjars/bootstrap/{$UBO.Frontend.bootstrap.version}/js/bootstrap.bundle.min.js"></script>
+      <script type="text/javascript" src="{$WebApplicationBaseURL}webjars/bootstrap-select/{$UBO.Frontend.bootstrap-select.version}/js/bootstrap-select.min.js"></script>
+      <script type="text/javascript" src="{$WebApplicationBaseURL}webjars/jquery-ui/{$UBO.Frontend.jquery-ui.version}/jquery-ui.js"></script>
 
       <script type="text/javascript">var webApplicationBaseURL = '<xsl:value-of select="$WebApplicationBaseURL" />';</script>
       <script type="text/javascript">var currentLang = '<xsl:value-of select="$CurrentLang" />';</script>
+      <script type="text/javascript" src="{$WebApplicationBaseURL}js/session-polling.js"></script>
       <script type="text/javascript" src="{$WebApplicationBaseURL}js/person-popover.js"></script>
 
       <xsl:copy-of select="node()" />
@@ -372,7 +373,7 @@
               </a>
             </li>
           </ul>
-
+          <xsl:call-template name="orcidUser" />
         </li>
       </xsl:otherwise>
     </xsl:choose>
