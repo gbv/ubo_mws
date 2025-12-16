@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <webpage lastModified="$Date$" id="dozbib">
- <title xml:lang="de">Willkommen bei der Bibliographie von perspectivia.net</title>
- <title xml:lang="en">Welcome to Bibliography of perspectivia.net</title>
+ <title xml:lang="de">Willkommen bei der Bibliographie der Max Weber Stiftung</title>
+ <title xml:lang="en">Welcome to the bibliography of the Max Weber Foundation</title>
 
  <article class="card mb-3" xml:lang="de">
    <div class="card-body">
-     <h3>Die Universitätsbibliographie</h3>
+     <h3>Ein Service von perspectivia.net</h3>
       <p>
-        ist der zentrale Publikationsnachweis der Einrichtungen der MWS, der online die Publikationstätigkeit verzeichnet.
-        Die Einträge beruhen großenteils auf den Angaben der Autoren selbst.
+        Die Bibliographie ist der zentrale Publikationsnachweis der Einrichtungen der MWS, der online die
+        Publikationstätigkeit verzeichnet. Die Einträge beruhen großenteils auf den Angaben der Autoren selbst.
       </p>
       <h3>Sie sind Angehöriger einer Einrichtung der MWS?</h3>
       <p>
@@ -18,22 +18,21 @@
       </p>
    </div>
  </article>
-  <!--  article class="card mb-3" xml:lang="en">
+  <article class="card mb-3" xml:lang="en">
     <div class="card-body">
-      <h3>The University Bibliography</h3>
+      <h3>A service provided by perspectivia.net</h3>
       <p>
-        is the central resource of Duisburg-Essen University that lists all publication activities of the university members.
-        The entries are mainly based on information provided by the authors themselves.
-        The bibliography is run by the university library. Since September, 2010 an editoral team revises and completes new entries.
+        The bibliography is the central publication record of the MWS institutions, which lists their
+        publications online. The entries are largely based on information provided by the authors themselves.
       </p>
       <h3>
-        As a member of Duisburg Essen University</h3>
+        Are you a member of an MWS institution?</h3>
       <p>
         Help us to complete the bibliography!<br/>
         <a href="../newPublication.xed">Here you can register your own publication</a>
       </p>
     </div>
-  </article -->
+  </article>
 
   <article class="card mb-3">
     <div class="card-body">
@@ -76,7 +75,7 @@
     </div>
   </article>
 
-  <xinclude uri="xslStyle:response-newest:solr:q=status%3Aconfirmed+AND+year%3A2022&amp;rows=4&amp;sort=created+desc,year+desc&amp;facet=false&amp;fl=id,year" />
+  <xinclude uri="xslStyle:response-newest:solr:q=status%3Aconfirmed+AND+year%3A2025&amp;rows=4&amp;sort=created+desc,year+desc&amp;facet=false&amp;fl=id,year" />
 
   <aside id="sidebar">
     <xinclude uri="xslStyle:response-sidebar-mini:solr:q=status%3Aconfirmed&amp;rows=0" />

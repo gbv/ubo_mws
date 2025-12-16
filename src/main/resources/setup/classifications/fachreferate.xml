@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<mycoreclass xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="MCRClassification.xsd" ID="fachreferate">
+
+	<label xml:lang="en" text="Subject" />
+	<label xml:lang="de" text="Fach" />
+
+	<categories>
+		<category ID="1">
+			<label xml:lang="de" text="Philosophie, Psychologie" />
+			<label xml:lang="en" text="Philosophie, Psychologie" />
+		</category>
+		<category ID="2">
+			<label xml:lang="de" text="Religion" />
+			<label xml:lang="en" text="Religion" />
+		</category>
+		<category ID="3">
+			<label xml:lang="de" text="Technik" />
+			<label xml:lang="en" text="Technik" />
+		</category>		
+		<category ID="4">
+			<label xml:lang="de" text="Sprach-, Kultur- und Literaturwissenschaften" />
+			<label xml:lang="en" text="Sprach-, Kultur- und Literaturwissenschaften" />
+		</category>
+		<category ID="5">
+			<label xml:lang="de" text="Sozialwissenschaften" />
+			<label xml:lang="en" text="Sozialwissenschaften" />
+		</category>
+		<category ID="6">
+			<label xml:lang="de" text="Naturwissenschaften" />
+			<label xml:lang="en" text="Naturwissenschaften" />
+		</category>
+		<category ID="7">
+			<label xml:lang="de" text="Kunstwissenschaften und -geschichte" />
+			<label xml:lang="en" text="Kunstwissenschaften und -geschichte" />
+		</category>
+		<category ID="8">
+			<label xml:lang="de" text="Informatik, Information &amp; Wissen, allgemeine Werke" />
+			<label xml:lang="en" text="Informatik, Information &amp; Wissen, allgemeine Werke" />
+		</category>
+		<category ID="9">
+			<label xml:lang="de" text="Geschichtswissenschaften" />
+			<label xml:lang="en" text="Geschichtswissenschaften" />
+		</category>
+	</categories>
+</mycoreclass>
