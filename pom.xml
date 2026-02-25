@@ -5,12 +5,12 @@
   <parent>
     <groupId>de.gbv.reposis</groupId>
     <artifactId>reposis_parent</artifactId>
-    <version>2022.06-SNAPSHOT</version>
+    <version>2024.06-SNAPSHOT</version>
     <relativePath />
   </parent>
   <groupId>de.gbv.ubo</groupId>
   <artifactId>ubo_mws</artifactId>
-  <version>prod-SNAPSHOT</version>
+  <version>dev-SNAPSHOT</version>
   <packaging>jar</packaging>
 
   <name>UBO MWS</name>
