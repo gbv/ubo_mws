@@ -194,15 +194,10 @@
 
   <xsl:template name="layout.languageLink">
     <xsl:param name="lang" />
-    <xsl:variable name="langURL">
-      <xsl:call-template name="UrlSetParam">
-        <xsl:with-param name="url" select="$RequestURL" />
-        <xsl:with-param name="par" select="'lang'" />
-        <xsl:with-param name="value" select="$lang" />
-      </xsl:call-template>
-    </xsl:variable>
-    <xsl:call-template name="UrlAddSession">
-      <xsl:with-param name="url" select="$langURL" />
+    <xsl:call-template name="UrlSetParam">
+      <xsl:with-param name="url" select="$RequestURL" />
+      <xsl:with-param name="par" select="'lang'" />
+      <xsl:with-param name="value" select="$lang" />
     </xsl:call-template>
   </xsl:template>
 
