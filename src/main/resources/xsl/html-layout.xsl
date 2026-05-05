@@ -194,15 +194,10 @@
 
   <xsl:template name="layout.languageLink">
     <xsl:param name="lang" />
-    <xsl:variable name="langURL">
-      <xsl:call-template name="UrlSetParam">
-        <xsl:with-param name="url" select="$RequestURL" />
-        <xsl:with-param name="par" select="'lang'" />
-        <xsl:with-param name="value" select="$lang" />
-      </xsl:call-template>
-    </xsl:variable>
-    <xsl:call-template name="UrlAddSession">
-      <xsl:with-param name="url" select="$langURL" />
+    <xsl:call-template name="UrlSetParam">
+      <xsl:with-param name="url" select="$RequestURL" />
+      <xsl:with-param name="par" select="'lang'" />
+      <xsl:with-param name="value" select="$lang" />
     </xsl:call-template>
   </xsl:template>
 
@@ -323,7 +318,7 @@
       </a>
       <ul class="dropdown-menu" role="menu">
         <li>
-          <a  class="dropdown-item" href="{$ServletsBaseURL}MCRBasketServlet{$HttpSession}?type={$basket/@type}&amp;action=show">
+          <a  class="dropdown-item" href="{$ServletsBaseURL}MCRBasketServlet?type={$basket/@type}&amp;action=show">
             <xsl:value-of select="i18n:translate('basket.show')" />
           </a>
         </li>
