@@ -8,10 +8,10 @@
    <div class="card-body">
      <h3>Ein Service von perspectivia.net</h3>
       <p>
-        Die Bibliographie ist der zentrale Publikationsnachweis der Einrichtungen der MWS, der online die
-        Publikationstätigkeit verzeichnet. Die Einträge beruhen großenteils auf den Angaben der Autoren selbst.
+        Die Bibliographie ist der zentrale Publikationsnachweis der Institute und Außenstellen der MWS, der online die
+        Publikationstätigkeit verzeichnet. Die Einträge beruhen großenteils auf den Angaben der Autorinnen und Autoren selbst.
       </p>
-      <h3>Sie sind Angehöriger einer Einrichtung der MWS?</h3>
+      <h3>Sie sind Angehörige oder Angehöriger eines Instituts oder einer Außenstelle der MWS?</h3>
       <p>
         Helfen Sie uns bei der Vervollständigung!<br/>
         <a href="../newPublication.xed">Hier können Sie Ihre Publikation an die Bibliographie melden</a>
@@ -22,14 +22,13 @@
     <div class="card-body">
       <h3>A service provided by perspectivia.net</h3>
       <p>
-        The bibliography is the central publication record of the MWS institutions, which lists their
-        publications online. The entries are largely based on information provided by the authors themselves.
+        The bibliography is the central publication record of the MWS institutes and branch offices, documenting
+        publication activities online. The entries are largely based on information provided by the authors themselves.
       </p>
-      <h3>
-        Are you a member of an MWS institution?</h3>
+      <h3>Are you affiliated with an MWS institute or branch office?</h3>
       <p>
-        Help us to complete the bibliography!<br/>
-        <a href="../newPublication.xed">Here you can register your own publication</a>
+        Help us complete our records!<br/>
+        <a href="../newPublication.xed">Click here to report your publication to the bibliography.</a>
       </p>
     </div>
   </article>
