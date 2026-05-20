@@ -3,7 +3,8 @@
 <xsl:stylesheet version="1.0"
                 xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
                 xmlns:mods="http://www.loc.gov/mods/v3"
-                exclude-result-prefixes="xsl mods">
+                xmlns:xlink="http://www.w3.org/1999/xlink"
+                exclude-result-prefixes="xsl xlink mods">
 
   <xsl:import href="xslImport:solr-document:ubo-mws-solr.xsl" />
 
