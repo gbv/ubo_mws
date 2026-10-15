@@ -52,6 +52,11 @@
           <xsl:call-template name="head-bar" />
           <xsl:call-template name="site-header" />
           <xsl:call-template name="ubo-main-nav" />
+          <div class="container info-box">
+            <div class="alert alert-warning mt-3">
+              <xsl:value-of select="i18n:translate('pp.disclaimer')" />
+            </div>
+          </div>
         </header>
 
         <xsl:call-template name="title.breadcrumb.container" />

@@ -8,8 +8,13 @@
    <div class="card-body">
      <h3>Ein Service von perspectivia.net</h3>
       <p>
-        Die Bibliographie ist der zentrale Publikationsnachweis der Institute und Außenstellen der MWS, der online die
-        Publikationstätigkeit verzeichnet. Die Einträge beruhen großenteils auf den Angaben der Autorinnen und Autoren selbst.
+        Die Bibliographie ist der zentrale Publikationsnachweis der Institute und Außenstellen der Max Weber Stiftung,
+        der online die Publikationstätigkeit verzeichnet. Die Einträge beruhen großenteils auf den Angaben der Autorinnen
+        und Autoren selbst.
+      </p>
+      <p>
+        Wir arbeiten seit Juni 2026 kontinuierlich an den Inhalten der MWS-Bibliographie. Da sich die Plattform noch im
+        Aufbau befindet, übernehmen wir aktuell keine Gewähr für die Vollständigkeit oder Richtigkeit der Daten.
       </p>
       <h3>Sie sind Angehörige oder Angehöriger eines Instituts oder einer Außenstelle der MWS?</h3>
       <p>
@@ -22,12 +27,17 @@
     <div class="card-body">
       <h3>A service provided by perspectivia.net</h3>
       <p>
-        The bibliography is the central publication record of the MWS institutes and branch offices, documenting
-        publication activities online. The entries are largely based on information provided by the authors themselves.
+        The bibliography is the central publication directory of the Max Weber Stiftung institutes and branch offices,
+        documenting publication activities online. The entries are largely based on information provided by the authors
+        themselves.
+      </p>
+      <p>
+        We have been working continuously on the contents of the MWS Bibliography since June 2026. Since the platform is
+        still under development, we currently accept no liability for the completeness or accuracy of the data.
       </p>
       <h3>Are you affiliated with an MWS institute or branch office?</h3>
       <p>
-        Help us complete our records!<br/>
+        Help us complete the records!<br/>
         <a href="../newPublication.xed">Click here to report your publication to the bibliography.</a>
       </p>
     </div>
@@ -87,7 +97,7 @@
           <h3>Kontakt:</h3>
         </hgroup>
         <p>
-          <a href="mailto:Perspectivia@MaxWeberStiftung.de">
+          <a href="mailto:perspectivia@MaxWeberStiftung.de">
             <span>perspectivia<br/>@MaxWeberStiftung.de</span>
           </a>
         </p>
@@ -99,7 +109,7 @@
           <h3>Contact:</h3>
         </hgroup>
         <p>
-          <a href="mailto:Perspectivia@MaxWeberStiftung.de">
+          <a href="mailto:perspectivia@MaxWeberStiftung.de">
             <span>perspectivia<br/>@MaxWeberStiftung.de</span>
           </a>
         </p>

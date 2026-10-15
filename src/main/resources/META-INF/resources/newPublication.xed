@@ -31,7 +31,7 @@
 
             <xed:bind xpath="mods:identifier">
               <div class="form-group form-inline">
-		<div class="mycore-form-label">
+        <div class="mycore-form-label">
                   <xed:bind xpath="@type">
                     <select class="form-control custom-select">
                       <option value="doi">DOI</option>
@@ -51,7 +51,7 @@
                       </xed:if>
                       </select>:
                   </xed:bind>
-		</div>
+        </div>
                 <input id="identifier" class="{$xed-validation-marker} mycore-form-input"/>
               </div>
             </xed:bind>
@@ -94,7 +94,7 @@
 
             <div class="form-group form-inline">
               <label class="mycore-form-label">
-	      </label>
+              </label>
               <div class="cancel-submit">
                 <button class="btn btn-primary" type="submit" xed:target="servlet" xed:href="NewPublicationWizard">
                   <xed:output i18n="button.next" />
@@ -117,9 +117,9 @@
         <a href="https://www.uni-due.de/ub/abisz/refworks.shtml" target="_blank">RefWorks</a>,
         BibTeX oder <a href="https://www.uni-due.de/ub/abisz/refworks.shtml" target="_blank">Citavi</a>
         erstellt haben, können Sie diese Listen gerne bei uns abliefern. Die Daten werden dann von uns in
-        die MWSbibliographie importiert. <br />
+        die MWS-Bibliographie importiert. <br />
         Bitte schicken Sie eine
-        E-Mail an: <a href="mailto:uPerspectivia@MaxWeberStiftung.de">Perspectivia@MaxWeberStiftung.de</a><br/><br />
+        E-Mail an: <a href="mailto:perspectivia@MaxWeberStiftung.de">perspectivia@MaxWeberStiftung.de</a><br/><br />
       </p>
     </div>
   </article>
@@ -132,9 +132,9 @@
         of literature management programs such as
         <a href="https://www.uni-due.de/ub/en/erefworks.shtml" target="_blank">RefWorks</a>, BibTex, or
         <a href="https://www.uni-due.de/ub/en/ecitavi.shtml" target="_blank">Citavi</a>, you are welcome to
-        submit these lists to us. We will then import the data into MWSbibliographie.<br />
+        submit these lists to us. We will then import the data into MWS Bibliographie.<br />
         Please send an e-mail to:
-        <a href="mailto:uPerspectivia@MaxWeberStiftung.de">Perspectivia@MaxWeberStiftung.de</a><br/><br />
+        <a href="mailto:perspectivia@MaxWeberStiftung.de">perspectivia@MaxWeberStiftung.de</a><br/><br />
       </p>
     </div>
   </article>
@@ -206,7 +206,7 @@
     <div class="card-body">
       <h2>Zeitraum der Erfassung</h2>
       <p>
-        Grundsätzlich können Sie <strong>alle</strong> Ihre Veröffentlichungen der MWSbibliographie melden
+        Grundsätzlich können Sie <strong>alle</strong> Ihre Veröffentlichungen der MWS-Bibliographie melden
         und so Ihre <strong>gesamte persönliche Bibliographie</strong> erstellen und pflegen. Es werden aber
         nicht alle bei der Statistik berücksichtigt.
       </p>
@@ -217,7 +217,7 @@
     <div class="card-body">
       <h2>Period of registration</h2>
       <p>
-        Basically, you can register <strong>all</strong> your publications with the MWSbibliographie
+        Basically, you can register <strong>all</strong> your publications with the MWS Bibliographie
         and thus establish and maintain your <strong>complete personal bibliography</strong>. However,
         not all of them are included in the statistics.
       </p>

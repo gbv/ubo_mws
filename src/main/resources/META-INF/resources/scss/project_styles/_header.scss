@@ -73,6 +73,12 @@
     margin-right: 0;
   }
 
+  .info-box .alert-warning {
+    color: #61186a;
+    background-color: #dfddff;
+    border-color: #61186a;
+  }
+
 // Large devices (desktops) and below: <= 1200px
 @include media-breakpoint-down(lg) {
   // add/overwrite styles for responsive level lg and lower

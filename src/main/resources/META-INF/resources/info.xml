@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE webpage>
+
+<webpage lastModified="$Date$" id="impressum">
+  <title xml:lang="de">Informationen</title>
+  <title xml:lang="en">Information</title>
+
+  <article class="card mb-3" xml:lang="de">
+    <div class="card-body">
+      <h2>Forschung sichtbar machen</h2>
+      <p>
+        Die MWS-Bibliographie verzeichnet sämtliche Publikationen, die Sie als Wissenschaftlerinnen und Wissenschaftler
+        der Max Weber Stiftung veröffentlichen – damit helfen wir, Ihre Forschung international sichtbar zu machen.
+      </p>
+    </div>
+  </article>
+
+  <article class="card mb-3" xml:lang="en">
+    <div class="card-body">
+      <h2>Making Research Visible</h2>
+      <p>
+        The MWS Bibliography records all publications published by you as researchers at the Max Weber Stiftung –
+        helping us make your research visible internationally.
+      </p>
+    </div>
+  </article>
+
+  <article class="card mb-3" xml:lang="de">
+    <div class="card-body">
+      <h2>Publikationstypen in der MWS-Bibliographie</h2>
+      <p>
+        Folgende Publikationen können erfasst werden:
+      </p>
+      <ul>
+        <li>Monographien, Sammelwerke, Tagungsbände, Lexika</li>
+        <li>Zeitschriftenaufsätze</li>
+        <li>Blogartikel</li>
+        <li>Beiträge in Sammelwerken (d. h. in Büchern mit Beiträgen mehrerer Autorinnen und Autoren)</li>
+        <li>Beiträge in Kongressschriften / Tagungsbänden</li>
+        <li>Lexikoneinträge</li>
+        <li>Herausgebertätigkeiten für Sammelwerke, Zeitschriften und Serien</li>
+        <li>Vorträge</li>
+        <li>Interviews</li>
+        <li>Poster</li>
+        <li>Preprints / Working Papers</li>
+        <li>Vorworte, Nachworte</li>
+        <li>Wissenschaftliche Rezensionen</li>
+      </ul>
+    </div>
+  </article>
+
+  <article class="card mb-3" xml:lang="en">
+    <div class="card-body">
+      <h2>Publication Types in the MWS Bibliography</h2>
+      <p>
+        The following publications can be recorded:
+      </p>
+      <ul>
+        <li>Monographs, edited volumes, conference proceedings, encyclopedias</li>
+        <li>Journal articles</li>
+        <li>Blog posts</li>
+        <li>Contributions to edited volumes (i.e., in books with contributions from multiple authors)</li>
+        <li>Contributions to conference proceedings / actas</li>
+        <li>Encyclopedia entries</li>
+        <li>Editorial activities for edited volumes, journals, and series</li>
+        <li>Lectures / Presentations</li>
+        <li>Interviews</li>
+        <li>Posters</li>
+        <li>Preprints / Working papers</li>
+        <li>Forewords, afterwords</li>
+        <li>Academic reviews</li>
+      </ul>
+    </div>
+  </article>
+
+  <article class="card mb-3" xml:lang="de">
+    <div class="card-body">
+      <h2>Personen in der MWS-Bibliographie</h2>
+      <p>
+        Diese Personengruppen können bzw. sollten der Bibliographie ihre Publikationen melden:
+      </p>
+      <ul>
+        <li>Direktion</li>
+        <li>Wissenschaftliche Mitarbeiterinnen und Mitarbeiter</li>
+        <li>Stipendiatinnen und Stipendiaten</li>
+        <li>Gastwissenschaftlerinnen und Gastwissenschaftler</li>
+      </ul>
+    </div>
+  </article>
+
+  <article class="card mb-3" xml:lang="en">
+    <div class="card-body">
+      <h2>People in the MWS Bibliography</h2>
+      <p>
+        The following groups of people can or should report their publications to the bibliography:
+      </p>
+      <ul>
+        <li>Directorate</li>
+        <li>Research associates / Academic staff</li>
+        <li>Fellows / Scholarship holders</li>
+        <li>Visiting scholars / Guest researchers</li>
+      </ul>
+    </div>
+  </article>
+
+  <article class="card mb-3" xml:lang="de">
+    <div class="card-body">
+      <h2>Unser Service für Sie</h2>
+      <p>
+        Text in Bearbeitung.
+      </p>
+    </div>
+  </article>
+
+  <article class="card mb-3" xml:lang="en">
+    <div class="card-body">
+      <h2>Our Service for You</h2>
+      <p>
+        Text under revision.
+      </p>
+    </div>
+  </article>
+
+  <article class="card mb-3" xml:lang="de">
+    <div class="card-body">
+      <h2>Literaturlisten</h2>
+      <p>
+        Sollten Sie über Literaturlisten verfügen, die Sie mit Hilfe von Literaturverwaltungsprogrammen, wie z.B. RefWorks , BibTeX oder
+        Citavi erstellt haben, können Sie diese Listen gerne bei uns abliefern. Die Daten werden dann von uns in die MWS-Bibliographie
+        importiert.<br />
+        Bitte schicken Sie eine E-Mail an: perspectivia(at)MaxWeberStiftung.de
+      </p>
+    </div>
+  </article>
+
+  <article class="card mb-3" xml:lang="en">
+    <div class="card-body">
+      <h2>Lists of literature</h2>
+      <p>
+        If you have lists of literature at your disposal that you have compiled with the aid of literature management programs such as
+        RefWorks , BibTex, or Citavi , you are welcome to submit these lists to us. We will then import the data into MWS Bibliographie. <br />
+        Please send an e-mail to: perspectivia(at)MaxWeberStiftung.de
+      </p>
+    </div>
+  </article>
+  
+  <article class="card mb-3" xml:lang="de">
+    <div class="card-body">
+      <h2>Zeitraum der Erfassung</h2>
+      <p>
+        Grundsätzlich können Sie alle Ihre Veröffentlichungen der MWS-Bibliographie melden und so Ihre gesamte persönliche
+        Bibliographie erstellen und pflegen. Es werden aber nicht alle bei der Statistik berücksichtigt.
+      </p>
+    </div>
+  </article>
+
+  <article class="card mb-3" xml:lang="en">
+    <div class="card-body">
+      <h2>Period of registration</h2>
+      <p>
+        Basically, you can register all your publications with the MWS Bibliographie and thus establish and maintain
+        your complete personal bibliography . However, not all of them are included in the statistics.
+      </p>
+    </div>
+  </article>
+  
+  <article class="card mb-3" xml:lang="de">
+    <div class="card-body">
+      <h2>Kontakt</h2>
+      <p>
+        Haben Sie Fragen zur MWS-Bibliographie oder benötigen Sie Hilfe oder Beratung?
+        Melden Sie sich gern bei uns:<br />
+        Redaktionsteam der MWS-Bibliographie: perspectivia(at)maxweberstiftung.de
+      </p>
+    </div>
+  </article>
+
+  <article class="card mb-3" xml:lang="en">
+    <div class="card-body">
+      <h2>Contact</h2>
+      <p>
+        Do you have any questions about the MWS Bibliography, or do you need help or advice?
+        Feel free to get in touch with us: <br />
+        MWS Bibliography Editorial Team: perspectivia(at)maxweberstiftung.de
+      </p>
+    </div>
+  </article>
+
+</webpage>

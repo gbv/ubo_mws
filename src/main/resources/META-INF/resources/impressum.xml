@@ -5,5 +5,224 @@
   <title xml:lang="de">Impressum</title>
   <title xml:lang="en">Imprint</title>
 
+  <article class="card mb-3" xml:lang="de">
+    <div class="card-body">
+      <h2>Impressum</h2>
+      <p>
+        Die Bibliographie ist der zentrale Publikationsnachweis der Institute und Außenstellen der Max Weber Stiftung,
+        der online die Publikationstätigkeit verzeichnet. Die Einträge beruhen großenteils auf den Angaben der
+        Autorinnen und Autoren selbst.
+      </p>
+      <p>
+        Es ist ein nicht-kommerzielles Angebot der Max Weber Stiftung – Deutsche Geisteswissenschaftliche Institute im Ausland.
+      </p>
+    </div>
+  </article>
+
+  <!-- article class="card mb-3" xml:lang="en">
+    <div class="card-body">
+      <h2>Making Research Visible</h2>
+      <p>
+        The MWS Bibliography records all publications published by you as researchers at the Max Weber Stiftung –
+        helping us make your research visible internationally.
+      </p>
+    </div>
+  </article -->
+
+  <article class="card mb-3" xml:lang="de">
+    <div class="card-body">
+      <h2>Adresse</h2>
+      <p>
+        Max Weber Stiftung –<br />
+        Deutsche Geisteswissenschaftliche Institute im Ausland<br />
+        Geschäftsstelle<br />
+        Rheinallee 6<br />
+        53173 Bonn<br />
+        Tel. +49-(0)228-37786-0<br />
+        Fax:+49 (0)228-37786-19<br />
+        E-Mail: info(at)maxweberstiftung.de
+      </p>
+    </div>
+  </article>
+
+  <!-- article class="card mb-3" xml:lang="en">
+    <div class="card-body">
+      <h2>Making Research Visible</h2>
+      <p>
+        The MWS Bibliography records all publications published by you as researchers at the Max Weber Stiftung –
+        helping us make your research visible internationally.
+      </p>
+    </div>
+  </article -->
+
+  <article class="card mb-3" xml:lang="de">
+    <div class="card-body">
+      <h2>Vertreter</h2>
+      <p>
+        Die Max Weber Stiftung (MWS) ist eine rechtsfähige bundesunmittelbare Stiftung mit Sitz in Bonn und wird
+        vertreten durch den Geschäftsführer, Dr. Harald Rosenbach.
+      </p>
+    </div>
+  </article>
+
+  <!-- article class="card mb-3" xml:lang="en">
+    <div class="card-body">
+      <h2>Vertreter</h2>
+      <p>
+        The MWS Bibliography records all publications published by you as researchers at the Max Weber Stiftung –
+        helping us make your research visible internationally.
+      </p>
+    </div>
+  </article -->
+
+  <article class="card mb-3" xml:lang="de">
+    <div class="card-body">
+      <h2>Ansprechpartnerin</h2>
+      <p>
+        Katrin Neumann (Koordination Digitale Publikationen, perspectivia.net, zentrale MWS-Bibliographie)<br />
+        Telefon +49 (0)228 37786-39<br />
+        E-Mail perspectivia(at)maxweberstiftung.de
+      </p>
+    </div>
+  </article>
+
+  <!-- article class="card mb-3" xml:lang="en">
+    <div class="card-body">
+      <h2>Ansprechpartnerin</h2>
+      <p>
+        The MWS Bibliography records all publications published by you as researchers at the Max Weber Stiftung –
+        helping us make your research visible internationally.
+      </p>
+    </div>
+  </article -->
+
+  <article class="card mb-3" xml:lang="de">
+    <div class="card-body">
+      <h2>Seitennutzung</h2>
+      <p>
+        Die Nutzung unserer Webseite ist in der Regel ohne Angabe personenbezogener Daten möglich. Soweit auf
+        unseren Seiten personenbezogene Daten (beispielsweise Name, Anschrift oder eMail-Adressen) erhoben
+        werden, erfolgt dies, soweit möglich, stets auf freiwilliger Basis. Diese Daten werden ohne Ihre
+        ausdrückliche Zustimmung nicht an Dritte weitergegeben.
+      </p>
+      <p>
+        Wir weisen darauf hin, dass die Datenübertragung im Internet (z.B. bei der Kommunikation per E-Mail)
+        Sicherheitslücken aufweisen kann. Ein lückenloser Schutz der Daten vor dem Zugriff durch Dritte ist
+        nicht möglich.
+      </p>
+    </div>
+  </article>
+
+  <!-- article class="card mb-3" xml:lang="en">
+    <div class="card-body">
+      <h2>Seitennutzung</h2>
+      <p>
+        The MWS Bibliography records all publications published by you as researchers at the Max Weber Stiftung –
+        helping us make your research visible internationally.
+      </p>
+    </div>
+  </article -->
+
+  <article class="card mb-3" xml:lang="de">
+    <div class="card-body">
+      <h2>Urheberrecht</h2>
+      <p>
+        Der Inhalt dieser Domäne und ihrer Subdomänen sind - sofern nicht ausdrücklich angegeben - urheberrechtlich
+        geschützt. Die Vervielfältigung, Verbreitung oder anderweitige Verwertung ist nur im Rahmen der urheberrechtlichen
+        Schrankenregelungen oder mit Genehmigung der Urheberin gestattet.
+      </p>
+    </div>
+  </article>
+
+  <!-- article class="card mb-3" xml:lang="en">
+    <div class="card-body">
+      <h2>Urheberrecht</h2>
+      <p>
+        The MWS Bibliography records all publications published by you as researchers at the Max Weber Stiftung –
+        helping us make your research visible internationally.
+      </p>
+    </div>
+  </article -->
+
+  <article class="card mb-3" xml:lang="de">
+    <div class="card-body">
+      <h2>Haftungsausschluss</h2>
+      <p>
+        Die veröffentlichten Informationen sind sorgfältig zusammengestellt, erheben aber keinen Anspruch
+        auf Aktualität, sachliche Korrektheit oder Vollständigkeit; eine entsprechende Gewähr wird nicht
+        übernommen. Alle kostenfreien Angebote sind unverbindlich. Die MWS behält es sich vor, jederzeit
+        ohne vorherige Ankündigung das Angebot zu verändern, zu ergänzen, zu löschen oder die
+        Veröffentlichung einzustellen.
+      </p>
+      <p>
+        Die Bildrechte der auf dieser Website verwendeten Bilder liegen, sofern nicht anders angegeben,
+        bei der Max Weber Stiftung.
+      </p>
+      <p>
+        Die MWS ist nicht für die Inhalte fremder Seiten verantwortlich, die über einen Link erreicht
+        werden. Die veröffentlichten Links werden mit größtmöglicher Sorgfalt recherchiert und
+        zusammengestellt. Die Redaktion hat keinen Einfluss auf die aktuelle und zukünftige Gestaltung
+        und Inhalte der fremden Seiten. Die MWS ist nicht für den Inhalt der verknüpften Seiten
+        verantwortlich und macht sich den Inhalt nicht zu eigen. Für illegale, fehlerhafte oder
+        unvollständige Inhalte sowie für Schäden, die durch die Nutzung oder Nichtnutzung der Informationen
+        entstehen, haftet allein der Anbieter der Webseite, auf die verwiesen wurde. Die Haftung desjenigen,
+        der lediglich auf die Veröffentlichung durch einen Link hinweist, ist ausgeschlossen. Die MWS
+        entfernt unverzüglich rechtswidrige Inhalte, sobald sie von ihnen Kenntnis erlangt. Hinweise
+        auf rechtswidrige Inhalte auf verlinkten Seiten oder Angeboten können an
+        info(at)maxweberstiftung.de gerichtet werden.
+      </p>
+      <p>
+        Sofern innerhalb des Internetangebotes die Möglichkeit zur Eingabe persönlicher oder geschäftlicher
+        Daten (E-Mail-Adressen, Namen, Anschriften) besteht, so erfolgt die Preisgabe dieser Daten
+        seitens des Nutzers auf ausdrücklich freiwilliger Basis.
+      </p>
+      <p>
+        Dieser Haftungsausschluss ist als Teil des Internetangebotes zu betrachten, von dem aus auf diese
+        Seite verwiesen wurde. Sofern Teile oder einzelne Formulierungen dieses Textes der geltenden
+        Rechtslage nicht, nicht mehr oder nicht vollständig entsprechen sollten, bleiben die übrigen
+        Teile des Dokumentes in ihrem Inhalt und ihrer Gültigkeit davon unberührt.
+      </p>
+    </div>
+  </article>
+
+  <!-- article class="card mb-3" xml:lang="en">
+    <div class="card-body">
+      <h2>Haftungsausschluss</h2>
+      <p>
+        xxx
+      </p>
+      <p>
+        xxx
+      </p>
+      <p>
+        xxx
+      </p>
+    </div>
+  </article -->
+
+  <article class="card mb-3" xml:lang="de">
+    <div class="card-body">
+      <h2>Fragen zum Repositoryframework MyCoRe, auf welchem die Bibliographie beruht, beantwortet Ihnen die</h2>
+      <p>
+        Verbundzentrale des GBV (VZG)<br />
+        Platz der Göttinger Sieben 1<br />
+        37073 Göttingen<br />
+        Tel.: 0551 39 5207<br />
+        Fax: 0551 39 13980<br />
+        Digitale Bibliothek, Reposis<br />
+        Internet: https://www.gbv.de/Verbundzentrale/serviceangebote/reposis-repository-service<br />
+        E-Mail: dms-list@lists.gbv.de
+      </p>
+    </div>
+  </article>
+
+  <!-- article class="card mb-3" xml:lang="en">
+    <div class="card-body">
+      <h2>Fragen</h2>
+      <p>
+        xxx
+      </p>
+    </div>
+  </article -->
 
 </webpage>
