@@ -107,7 +107,7 @@
     <div class="card-body">
       <h2>Unser Service für Sie</h2>
       <p>
-        Text in Bearbeitung.
+        <i>Text in Bearbeitung</i>.
       </p>
     </div>
   </article>
@@ -116,7 +116,7 @@
     <div class="card-body">
       <h2>Our Service for You</h2>
       <p>
-        Text under revision.
+        <i>Text under revision</i>.
       </p>
     </div>
   </article>

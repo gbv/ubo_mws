@@ -48,8 +48,8 @@
       <label xml:lang="en">Statistics</label>
     </item>
     <item ref="info.xml" id="dozbib.info">
-      <label xml:lang="de">Informationen</label>
-      <label xml:lang="en">Information</label>
+      <label xml:lang="de">Für MWS-Angehörige</label>
+      <label xml:lang="en">For MWS Researchers</label>
     </item>
     <item ref="import-list.xed" role="admin">
       <label xml:lang="de">Importieren</label>

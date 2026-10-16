@@ -4,43 +4,38 @@
   <title xml:lang="de">Erklärung zur Barrierefreiheit</title>
   <title xml:lang="en">Accessibility declaration</title>
 
-  <section xml:lang="all" title="Erklärung zur Barrierefreiheit">
-
-    <div class="row">
-      <div class="col-md-12" lang="de">
-
-        <h2>Erklärung zur Barrierefreiheit</h2><div class="card-text">
+  <article class="card" xml:lang="de">
+    <div class="card-body">
+        <h2>Erklärung zur Barrierefreiheit</h2>
 
         <p class="mt-4">
           Die <strong>Max Weber Stiftung</strong> (MWS) ist bemüht,
           die <strong>Bibliographie</strong>
-          (<a href="https://bibliographie.perspectivia.net/">https://bibliographie.perspectivia.net/</a>)
+          (<a href="https://mwsbibliographie.perspectivia.net/">mwsbibliographie.perspectivia.net</a>)
           im Einklang mit den nationalen Rechtsvorschriften zur Umsetzung der Richtlinie (EU) 2016/2102
           des Europäischen Parlaments barrierefrei zugänglich zu machen.
         </p>
-        </div>
-
       </div>
-    </div>
+  </article>
 
-    <div class="row mt-4">
-      <div class="col-md-12" lang="de">
+  <article class="card" xml:lang="de">
+    <div class="card-body">
 
         <h3>Stand der Vereinbarkeit mit den Anforderungen</h3>
 
         <p>
-          <strong>Diese Website wird kurzfristig neu gestaltet und überarbeitet.
+          <strong>Diese Website wird befindet sich im Aufbau und wird im Rahmen dessen neu gestaltet und überarbeitet.
           Dies beinhaltet ein neues Layout, das die Barrierefreiheit deutlich verbessern wird.
-          Für die neue Website wird demnächst ein BITV-Test durchgeführt und das Testergebnis an dieser Stelle veröffentlicht.</strong>
+          Für die dann neue Website wird ein BITV-Test durchgeführt und das Testergebnis an dieser Stelle veröffentlicht.</strong>
         </p>
         <p>
-          Diese Erklärung wurde am 31.05.2024 erstellt und zuletzt geprüft.
+          Diese Erklärung wurde am 16.10.2026 zuletzt aktualisiert.
         </p>
       </div>
-    </div>
+  </article>
 
-    <div class="row mt-4">
-      <div class="col-md-12" lang="de">
+  <article class="card" xml:lang="de">
+    <div class="card-body">
 
        <h3>Kontakt und Feedback</h3>
 
@@ -53,7 +48,6 @@
           auf welchen Inhalt Sie sich beziehen.
         </p>
       </div>
-    </div>
-  </section>
+  </article>
 
 </webpage>
